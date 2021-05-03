@@ -1,0 +1,117 @@
+Name : Pilea peperomioides (money plant)
+28/04/2021
+* Water
+*** 
+    Water Level : 484 (high)
+    Humidity : 82 % (exceeds 2%)
+    Temperature : 23.70 °C (exceeds 3.7 °C)
+    Heat Index : 24.53 °C
+***
+29/04/2021
+*** 
+    Water Level : 278 (Low)
+    Humidity : 74 % (Good 74 %)
+    Temperature : 22.2 °C (Good 22.2 °C)
+    Heat Index : 22.41 °C
+***
+30/04/2021
+*** 00h10
+    Water Level : 173 (Low)
+    Humidity : 84 % (exceeds 4 %)
+    Temperature : 22.5 °C (Good 22.5 °C)
+    Heat Index : 23 °C
+***
+*** 15h30
+    Water Level : 81 (Empty)
+    Humidity : 85 % (exceed 5 %)
+    Temperature : 22.2 °C (Good 22.2 °C)
+    Heat Index : 22.69 °C
+***
+01/05/2021
+*** 10h03
+    Water Level : 112 (Low)
+    Humidity : 93 % (exceed 13 %)
+    Temperature : 19.9 °C (Good 19.9 °C)
+    Heat Index : 20.37 °C
+***
+* Windows Open 10h03
+* Windows Close 10h49 (45 min)
+*** 18h49
+    Water Level : 189 (Low)
+    Humidity : 92 % (exceed 12 %)
+    Temperature : 21.4 °C (Good 21.4 °C)
+    Heat Index : 22 °C
+***
+*** 19h54
+    Water Level : 150 (Low)
+    Humidity : 92 % (exceed 12 %)
+    Temperature : 21.7 °C (Good 21.7 °C)
+    Heat Index : 22.33 °C
+***
+* Windows Open 20h09
+* Windows Close 20h46 (37 min)
+*** 20h46
+    Water Level : 150 (Low)
+    Humidity : 81 % (exceed 1 %)
+    Temperature : 20 °C (Good 20 °C)
+    Heat Index : 20.17 °C
+***
+02/05/2021
+*** 10h34
+    Water Level : 201 (Low)
+    Humidity : 93 % (exceed 13 %)
+    Temperature : 19.3 °C (Good 19.3 °C)
+    Heat Index : 19.71 °C
+***
+* Windows Open 10h34
+* Windows Close 11h10 (36 min)
+*** 11h10
+    Water Level : 128 (Low)
+    Humidity : 74 % (Good 74 %)
+    Temperature : 18.4 °C (Good 18.4 °C)
+    Heat Index : 18.23 °C
+***
+*** 17h48
+    Water Level : 82 (Empty)
+    Humidity : 83 % (exceed 3 %)
+    Temperature : 21.8 °C (Good 21.8 °C)
+    Heat Index : 22.2 °C
+***
+* Windows Open 17h48
+*** 19h14
+    Water Level : 75 (Empty)
+    Humidity : 65 % (Good 65 %)
+    Temperature : 20.4 °C (Good 20.4 °C)
+    Heat Index : 20.19 °C
+***
+* Windows Close 20h10 (21 min)
+*** 20h10
+    Water Level : 57 (Empty)
+    Humidity : 66 % (Good 66 %)
+    Temperature : 20 °C (Good 20 °C)
+    Heat Index : 19.78 °C
+***
+03/05/2021
+*** 10h3
+    Water Level : 71 (Empty)
+    Humidity : 79 % (Good 79 %)
+    Temperature : 18.4 °C (Good 18.4 °C)
+    Heat Index : 18.36 °C
+***
+* Windows Open 10h03
+* Windows Close 10h43 (40 min)
+*** 10h46
+    Water Level : 3 (Empty)
+    Humidity : 92 % (exceed 12 %)
+    Temperature : 17.2 °C (Good 17.2 °C)
+    Heat Index : 17.38 °C
+***
+** New Sensor (Moisture & gas)
+* Windows Open 14h00
+*** 14h19
+    Water Level : 522 (Low Dry)
+    Humidity : 65 % (Good 65 %)
+    Temperature : 18.8 °C (Good 18.8 °C)
+    Heat Index : 18.43 °C
+    Air Quality : 60 (Fresh air)
+***

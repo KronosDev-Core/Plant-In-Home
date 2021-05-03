@@ -1,0 +1,6 @@
+{
+    "board": "arduino:samd:mkrwifi1010",
+    "programmer": "arduino:sam_ice",
+    "port": "COM3",
+    "sketch": "SimpleWebServerWiFi.ino"
+}

@@ -1,0 +1,7 @@
+node_modules/
+*.psd
+*.png
+*.eps
+*.svg
+*.env
+gv*.json

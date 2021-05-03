@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant In Home</title>
+    <link rel="shortcut icon" href="/assets/svg/4370710-greenhouse/4370710-greenhouse/png/017-smart farm.png" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/framework/Kronos.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="/assets/codeflask/build/codeflask.min.js"></script>
+    <script src="/assets/chart.js/dist/chart.js"></script>
+</head>
+
+<body style="background-color:rgb(39, 39, 39);">
+    <nav id="TopNav">
+        <div id="Temperature">
+            <img src="/assets/svg/4370710-greenhouse/4370710-greenhouse/svg/001-thermometer.svg"><span>0.00 °C</span></div>
+        </div>
+        <div id="Humidity">
+            <img src="/assets/svg/4370710-greenhouse/4370710-greenhouse/svg/010-humidity.svg"><span>0.00 %</span></div>
+        </div>
+        <div id="Water Level">
+            <img src="/assets/svg/4370710-greenhouse/4370710-greenhouse/svg/026-observation.svg"><span>None</span></div>
+        </div>
+        <div id="Air Level">
+            <img src="/assets/svg/4370710-greenhouse/4370710-greenhouse/svg/020-co2.svg"><span>None</span></div>
+        </div>
+        <div id="Heat Index">
+            <img src="/assets/svg/4370710-greenhouse/4370710-greenhouse/svg/037-sun.svg"><span>0.00 °C</span></div>
+        </div>
+    </nav>
+    <div id="SecondTopNav">
+        <input type="range" id="TimeS" min="5" max="10" step=".5">
+    </div>
+    <div id="TreeTopNav">
+        <img src="/assets/svg/4370710-greenhouse/4370710-greenhouse/svg/004-watering can.svg">
+    </div>
+    <div id="Graph">
+        <canvas id="myChart" width="400" height="400"></canvas>
+    </div>
+    <div id="codeDiv">
+        <div id="codeArea"></div>
+        <div id="ButtonArea">
+            <button id="report">Report</button>
+            <button id="water">Water</button>
+            <button id="windows">Windows</button>
+            <button id="save">Save</button>
+        </div>
+    </div>
+    <script src="/assets/framework/Kronos.min.js"></script>
+    <script src="/assets/js/index.js"></script>
+</body>
+
+</html>
