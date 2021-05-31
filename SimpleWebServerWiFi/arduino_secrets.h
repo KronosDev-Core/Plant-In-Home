@@ -1,2 +1,2 @@
-#define SECRET_SSID "LAPTOP-KRONOSDEV"
-#define SECRET_PASS "4J21h40?"
+#define SECRET_SSID ""
+#define SECRET_PASS ""
