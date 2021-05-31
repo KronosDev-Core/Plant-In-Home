@@ -6,3 +6,4 @@ node_modules/
 *.env
 gv*.json
 *.pem
+arduino*.h
